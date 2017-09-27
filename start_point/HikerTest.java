@@ -6,11 +6,9 @@ public class HikerTest {
 
     @Test
     public void life_the_universe_and_everything() {
-        HikerHelper mock = mock(HikerHelper.class);
-        Hiker douglas = new Hiker(mock);
-        int expected = 42;
-        when(mock.multiplier()).thenReturn(9);
-        int actual = douglas.answer();
-        assertEquals(expected, actual);
+        HikerHelper helper = mock(HikerHelper.class);
+        Hiker douglas = new Hiker(helper);
+        when(helper.multiplier()).thenReturn(9);
+        assertEquals(42, douglas.answer());
     }
 }
