@@ -1,4 +1,11 @@
 {
+  "red":
+    {
+      "filename":"Hiker.java",
+      "from":"6 * helper.multiplier()",
+      "to":"6 * 99"
+    }
+  ,
   "green":
     {
       "filename":"Hiker.java",
