@@ -10,7 +10,5 @@
 
   "image_name": "cyberdojofoundation/java_mockito",
 
-  "filename_extension": ".java",
-
-  "runner_choice": "stateless"
+  "filename_extension": ".java"
 }
