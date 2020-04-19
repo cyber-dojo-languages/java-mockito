@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/java-13
+FROM cyberdojofoundation/java-14
 LABEL maintainer=jon@jaggersoft.com
 
 COPY /jars/* /mockito/
