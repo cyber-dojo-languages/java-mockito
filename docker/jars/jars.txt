@@ -1,0 +1,10 @@
+This file contains the locations to download the relevent .jar files
+Current version in parentheses
+
+(1.15.4)    https://mvnrepository.com/artifact/net.bytebuddy/byte-buddy
+(1.15.4)    https://mvnrepository.com/artifact/net.bytebuddy/byte-buddy-agent
+(1.11.13)   https://mvnrepository.com/artifact/org.junit.platform/junit-platform-console-standalone
+(5.14.2)    https://mvnrepository.com/artifact/org.mockito/mockito-core
+(5.14.2)    https://mvnrepository.com/artifact/org.mockito/mockito-junit-jupiter
+(3.4)       https://mvnrepository.com/artifact/org.objenesis/objenesis
+
